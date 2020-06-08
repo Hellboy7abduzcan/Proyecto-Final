@@ -1,4 +1,4 @@
-package gt.edu.umg.Progra1.Ejemplo;
+package gt.edu.umg.ProyectoFinal;
 
 public class Nodo {
 	int elemento;
